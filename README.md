@@ -1,6 +1,6 @@
 # 🧬 Photography Portfolio
 <div align="center">
-  <img src="https://github.com/um-xair/Photography-Portfolio/blob/main/portfolio-main.png" alt="Photography Portfolio" />
+  <img src="https://github.com/um-xair/r4xn-project/blob/main/project-assets/portfolio-main.png" alt="Photography Portfolio" />
 </div>  
 
 <br />
